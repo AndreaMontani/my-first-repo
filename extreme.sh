@@ -3,6 +3,7 @@
 ### Write a program called extremes which prints the maximum and minimum values of a sequence of numbers.
 ###syntax: bash extreme.sh 7 6  88 3434 667 7 7
 
+
 ###set -x
 ###echo "Start program"
 
